@@ -1,9 +1,8 @@
 ## Hi there 👋
-# Hi there 👋, I'm [Your Name]
 
 I'm a passionate .Net Developer.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VasilijeMaric&layout=compact&theme=radical)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Dotnet-informational?style=flat&logo=dotnet&logoColor=white&color=2bbc8a)
@@ -12,7 +11,7 @@ I'm a passionate .Net Developer.
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=VasilijeMaric&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **VasilijeMaric/VasilijeMaric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
